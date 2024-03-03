@@ -4,7 +4,7 @@ There is the possibility of introducing a gap (A-H) for each color. The players 
 
 Game modes: Player vs Player, Player vs Computer, or Computer vs Computer.
 
-The Computer could be more built upon - it doesn't utilize the best possible move (idea: Minimax Algorithm).
+The Computer could be more built upon.
 
 Move notation (standard algebraic notation): c2-c4, or c2xd3 for Capture.
 
